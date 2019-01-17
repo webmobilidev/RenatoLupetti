@@ -19,6 +19,7 @@ Con la gallery guarda il prodotto da te selezionato nei minimi dettagli.
     <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="android-minSdkVersion" value="19" />
+    <preference name="android-targetSdkVersion" value="26" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
