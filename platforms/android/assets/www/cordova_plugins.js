@@ -59,6 +59,20 @@ module.exports = [
         ]
     },
     {
+        "id": "es6-promise-plugin.Promise",
+        "file": "plugins/es6-promise-plugin/www/promise.js",
+        "pluginId": "es6-promise-plugin",
+        "runs": true
+    },
+    {
+        "id": "cordova-plugin-x-socialsharing.SocialSharing",
+        "file": "plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js",
+        "pluginId": "cordova-plugin-x-socialsharing",
+        "clobbers": [
+            "window.plugins.socialsharing"
+        ]
+    },
+    {
         "id": "phonegap-plugin-push.PushNotification",
         "file": "plugins/phonegap-plugin-push/www/push.js",
         "pluginId": "phonegap-plugin-push",
@@ -71,12 +85,14 @@ module.exports.metadata =
 // TOP OF METADATA
 {
     "cordova-custom-config": "3.0.14",
-    "cordova-plugin-device": "1.1.3",
+    "cordova-plugin-device": "1.1.6",
     "cordova-plugin-dialogs": "1.2.1",
     "cordova-plugin-inappbrowser": "1.5.0",
     "cordova-plugin-network-information": "1.2.1",
-    "cordova-plugin-statusbar": "2.2.0",
+    "cordova-plugin-statusbar": "2.2.3",
     "cordova-plugin-whitelist": "1.2.2",
+    "es6-promise-plugin": "4.1.0",
+    "cordova-plugin-x-socialsharing": "5.1.8",
     "phonegap-plugin-push": "1.8.4"
 };
 // BOTTOM OF METADATA
