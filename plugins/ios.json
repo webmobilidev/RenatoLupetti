@@ -8,37 +8,37 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.evoluzionedesign"
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         }
     }
 }
