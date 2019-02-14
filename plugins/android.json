@@ -7,17 +7,10 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
-        },
-        "phonegap-plugin-push": {
-            "SENDER_ID": "xxxxx",
+        "cordova-custom-config": {
             "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
-        },
-        "cordova-custom-config": {
             "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
         "cordova-plugin-dialogs": {
@@ -32,7 +25,14 @@
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
+        },
         "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
             "PACKAGE_NAME": "com.renatolupetti.renatolupetti"
         }
     },
